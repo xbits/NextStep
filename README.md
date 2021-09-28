@@ -1,9 +1,13 @@
 # NextSetp
-              %h2 Introdução
-            .row
-              %p As palavras neste texto não foram escolhidas ao acaso. Não foram escolhidas com o objectivo de transmitir ideias que resultem de uma intuição comum, caso em que bastaria apontar na direcção certa, que depois o leitor construiria mentalmente o que estivesse em falta para chegar ao destino pretendido.
-              %p Embora as palavras tenham inevitavelmente um significado lato, e quando combinadas originem frases com significado amplo, o significado que se pretende para cada uma das teses apresentadas é bastante específico e rigoroso. Significado esse que provavelmente foge à intuição do leitor e produzam neste uma sensação de desacordo. Ainda assim, reforço a ideia que as palavras não foram escolhidas ao acaso, que as teses são bastante objectivas, e que quando interpretadas da forma pretendida, trasmitem ideias que só podem estar certas ou erradas, ou são relevantes ou irrelevantes, não têm meio termo.
-              %p Assim, caso o leitor não concorde com alguma das teses, alguém estará errado, e esse alguém terá muito a ganhar com a resolução dessa discórdia. Mas se por outro lado o leitor concordar com as teses aqui defendidas, então concordará também que há muito a fazer para melhorar a nossa sociedade. Tanto a nível teórico como a nível prático, já que neste texto apenas se esboçam as bases sobre as quais deverão ser contruídas regras que possam ser seguidas ou procedimentos que possam ser aplicados em situações reais, e a distância que estamos hoje de uma sociedade em que as atividades profissionais se pautem pela competência é ainda enorme.
+
+## Introdução
+           
+           
+As palavras neste texto não foram escolhidas ao acaso. Não foram escolhidas com o objectivo de transmitir ideias que resultem de uma intuição comum, caso em que bastaria apontar na direcção certa, que depois o leitor construiria mentalmente o que estivesse em falta para chegar ao destino pretendido.
+              
+Embora as palavras tenham inevitavelmente um significado lato, e quando combinadas originem frases com significado amplo, o significado que se pretende para cada uma das teses apresentadas é bastante específico e rigoroso. Significado esse que provavelmente foge à intuição do leitor e produzam neste uma sensação de desacordo. Ainda assim, reforço a ideia que as palavras não foram escolhidas ao acaso, que as teses são bastante objectivas, e que quando interpretadas da forma pretendida, trasmitem ideias que só podem estar certas ou erradas, ou são relevantes ou irrelevantes, não têm meio termo.
+              
+Assim, caso o leitor não concorde com alguma das teses, alguém estará errado, e esse alguém terá muito a ganhar com a resolução dessa discórdia. Mas se por outro lado o leitor concordar com as teses aqui defendidas, então concordará também que há muito a fazer para melhorar a nossa sociedade. Tanto a nível teórico como a nível prático, já que neste texto apenas se esboçam as bases sobre as quais deverão ser contruídas regras que possam ser seguidas ou procedimentos que possam ser aplicados em situações reais, e a distância que estamos hoje de uma sociedade em que as atividades profissionais se pautem pela competência é ainda enorme.
             .row
               %h2 Resumo
             .row
