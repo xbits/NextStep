@@ -1,4 +1,36 @@
 Core
+1- Moral
+2- o Papel dos valores
+3- Valores Democráticos
+Pulp
+  Questões provenientes de Q&A, com importância (consistentes com o core e que aprofundem temas relevantes) 
+Q&A
+  Questões diversas
+
+1 - Moral.
+- Base Moral
+- O critério tem por base uma escolha do próprio individuo
+- Atenção à definição de maximização de bem estar (a escolha deve estar despida dos preconceitos presentes no individuo). Por isso a informação de base para a decisão deve ser cega à realidade exterior, e apenas conter sensações interiores ao individuo.
+- Conseguirá mesmo assim o individuo inferir sobre a realidade exterior? Tentar que não.
+
+2 - O papel dos Valores
+- Valors como Directrizes ou Receitas morais
+- Intuição e Razão preponderantes em situações específicas
+- No caso geral de problemas novos e complexos, não é expectável que existam valores adequados. Deve recorrer-se a especialistas e/ou razão consoante a dimensão do problema
+- Interessa salientar a falta de capacidade intelectual do ser humano? e a sua tendência a distorcer a realidade para o conforto do curto prazo?
+
+3 - Valores Democráticos
+- Partcicipar, Delegar avaliação, Avaliar delegados
+- Como Avaliar delegados
+- Como delegados devem avaliar governantes e candidatos a governantes
+- Tendo em conta a dimensão do problema da governação de uma sociedade democrática, justifica-se o recurso a especialistas. Tendo em conta a complexidade e tecnicidade do problema, justifica-se exigir aos especialistas que procurem consensos: Não consensos absolutos, mas a aprovação mutua da legitimidade da posição de cada um
+- Onde entra a definição de competência?
+- Deve incluir-se regras concretas sobre a avaliação e o comportamento a exigir aos governantes e aos delegados? (enunciarem o seu objectivo; consenso entre delegados; avaliar a competência; etc..) 
+
+___________________
+
+
+Core
   Teoria: Moral; Natureza Humana; Estrutura compreensiva de directrizes morais
   1o passo de aplicação prática: Directriz moral num Estado Democrático: Exigir cultura de competência de governantes e outros agentes da acção governativa
 Pulp
@@ -14,8 +46,12 @@ ShortList:
 Postulado 1 - Base da Moral
 2 - Natureza Humana
 Ser Humano não tem capacidade de calcular os termos do Postulado 1
-Uso de directrizes morais como receitas para substituir esse calculo. Os valores morais do senso comum não são mais do que as directrizes morais quando a acção envolve directamente terceiros
-Ser Humano programado para calcular e decidir consoante o seu bem estar no curto prazo, mas não no médio e longo prazo. Distorção da realidade resulta dessa programação
+
+Uso de directrizes (valores) morais como receitas para substituir esse calculo
+Uso da razão para escolha de valores a aplicar numa determinada situação, ou até para agir contra esses valores
+Aviso: O Ser Humano está programado para calcular e decidir consoante o seu bem estar no curto prazo, mas não no médio e longo prazo. Distorção da realidade resulta dessa programação
+Processo de decisão a 3 níveis: intuição, ponderação de valores, cálculo racional
+
 3 - Papel do Estado
 De acordo com a postulado 1, um individuo deve prejudicar o bem estar de outros individuos, sempre que isso maximizar o seu bem estar. Como isto é válido para todos, a maximização do bem estar de um individuo passará por condicionar o comportamento de outros individuos. 
 Definição - Linhas de Bem estar; Linha maximal

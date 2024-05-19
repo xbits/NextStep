@@ -2,7 +2,7 @@
 
 O Postulado 1 estabelece uma base moral para o comportamento dos seres humanos. Contudo, para que um ser humano tome as decisões moralmente corretas é necessário que este consiga avaliar o resultado no seu bem estar, no curto, médio e longo prazo, das várias alternativas que se lhe apresentam. 
 
-Esta capacidade está fora do alcance dos seres humanos. O ser humano tem uma capacidade bastante limitada de inferir os efeitos no seu bem estar a médio e longo prazo de qualquer evento, por ser dificil de prever o futuro de um sistema complexo, e quanto ao curto prazo, apenas consegue fazer boas estimativas quando confrontado com situações que lhe são familiares. Por outro lado, o ser humano haje quase exclusivamente de forma impulsiva e racional.
+Esta capacidade está fora do alcance dos seres humanos. O ser humano tem uma capacidade bastante limitada de inferir os efeitos no seu bem estar a médio e longo prazo de qualquer evento, por ser dificil de prever o futuro de um sistema complexo, e quanto ao curto prazo, apenas consegue fazer boas estimativas quando confrontado com situações que lhe são familiares. Por outro lado, o ser humano aje quase exclusivamente de forma impulsiva e racional.
 
 Para o auxiliar na tomada de decisão, o ser humano poderá recorrer a regras mais fáceis de aplicar. Por exemplo: não roubar. Se deixarmos de lado o sentimento de culpa, o acto de roubar um desconhecido tem um óbvio benefício a curto prazo: a pessoa que rouba ganha o objecto do roubo, e se este for valioso, esse valor poderá ser convertido em bem estar individual. Contudo, existem outras consequências desse roubo, com efeito no médio e longo prazo, que são prejudiciais e regra geral ultrapassam os benefícios de curto prazo: a preocupação constante com a possibilidade do roubo ser descoberto; a possibilidade do roubo ser de facto descoberto e a grande variadade de consequências negativas que essa descoberta poderia dispultar; o efeito multiplicador que o roubo pode gerar, na medida em que uma pessoa que é roubada ganha uma maior propenção para ela própria cometer um acto semelhante, etc ..
 
@@ -13,3 +13,12 @@ Estas considerações sobre a dificuldade na avaliação da alternativa moralmen
 Por outro lado, nem sempre é assim, e são muitas as situações em que estes comportamentos não contribuem para o máximo de bem estar do individuo, e tal como nos comportamentos racionais, isto acontece quando essas situações não lhe são familiares.
 
 Nota: Falar de valores morais é pertinente pois indica um forma prática de agir moralmente. Qual o interesse de falar nas atitudes irracionais dos seres humanos? Mais à frente vai perceber-se que para agir moralmente, devemos recorrer à construção de um estado. Na escolha da forma e na avaliação do desempenho desse estado os valores morais não de grande auxilio. Precisamos de algo mais: o próximo passo: a cultura de competência. E dessa cultura de competência deverão surgir outras regras, agora aplicadas ao estado, que permitam também facilitar nesse processo. Também aqui, não se percebe a relevância de se ter falado nos comportamentos irracionais..
+
+Hipótese 1 - Comportamento Humano. Quando confrontado com escolhas, o ser humano toma uma decisão com base em três ferramentas que tem ao seu dispor: a intuição, os valores morais, e a razão.
+Hipótese 2 - Na grande maioria das situações, o ser humano usa a intuição. Nas situações mais relavantes usa os valores morais e um pouco de razão. Nas situações mais complexas, onde nem os valores morais nem a intuição parecem ajudar, o ser humano é deixado à razão, e tem grandes dificuldades de fazer a escolha correcta por não ter capacidade para estimar as consequências da no médio e longo prazo das suas decisões.
+
+Tese 1 - Em situações complexas, onde nem a intuição nem os valores morais ajudam, o ser humano deve recorrer a ajuda de outros seres humanos, ferramentas, e se possível, desenvolver novos valores que se apliquem a estas situações
+
+--___________________
+
+Quando o ser humano está confrontado com a tomada de uma decisão, este precisa de avaliar a situação presente e estimar as consequências futuras dessa decisão. Quando a definição do que é correcto depende dessa avaliação da realidade, este 
